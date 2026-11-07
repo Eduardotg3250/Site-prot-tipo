@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+background {
+    background-color: #ff2828;
+    padding: 20px;
+}
