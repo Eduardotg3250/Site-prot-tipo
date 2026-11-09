@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+img.curso-logo {
+    object-position: center;
+    display: block;
+    margin: 0 auto 1rem auto;
+    max-width: 100%;
+}
